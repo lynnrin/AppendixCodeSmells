@@ -1,0 +1,112 @@
+
+
+smell name: GodClass
+argouml & ※ & -
+ant & p< 0.05 & up
+derby & p< 0.05 & up
+eclipse & p< 0.05 & up
+elasticsearch & ※ & -
+hadoop & ※ & -
+hsqldb & p< 0.05 & down
+incubating & p< 0.05 & up
+nutch & ※ & -
+qpid & p< 0.05 & up
+wicket & p< 0.05 & up
+xerces & p< 0.05 & up
+Total && 7:1
+
+
+smell name: ComplexClass
+argouml & ※ & -
+ant & p< 0.05 & up
+derby & p< 0.05 & up
+eclipse & p< 0.05 & down
+elasticsearch & ※ & -
+hadoop & p< 0.05 & up
+hsqldb & p< 0.05 & down
+incubating & p< 0.05 & down
+nutch & ※ & -
+qpid & p< 0.05 & down
+wicket & ※ & -
+xerces & p< 0.05 & up
+Total && 4:4
+
+
+smell name: ClassDataShouldBePrivate
+argouml & p< 0.05 & down
+ant & p< 0.05 & up
+derby & p< 0.05 & up
+eclipse & p< 0.05 & down
+elasticsearch & p< 0.05 & down
+hadoop & p< 0.05 & down
+hsqldb & ※ & -
+incubating & p< 0.05 & down
+nutch & p< 0.05 & down
+qpid & p< 0.05 & down
+wicket & ※ & -
+xerces & p< 0.05 & down
+Total && 2:8
+
+
+smell name: SpaghettiCode
+argouml & p< 0.05 & down
+ant & p< 0.05 & down
+derby & p< 0.05 & up
+eclipse & p< 0.05 & up
+elasticsearch & ※ & -
+hadoop & p< 0.05 & down
+hsqldb & p< 0.05 & up
+incubating & p< 0.05 & down
+nutch & ※ & -
+qpid & p< 0.05 & up
+wicket & p< 0.05 & up
+xerces & p< 0.05 & up
+Total && 6:4
+
+
+smell name: LongMethod
+argouml & p< 0.05 & down
+ant & p< 0.05 & up
+derby & p< 0.05 & up
+eclipse & p< 0.05 & up
+elasticsearch & p< 0.05 & up
+hadoop & p< 0.05 & up
+hsqldb & p< 0.05 & up
+incubating & p< 0.05 & up
+nutch & p< 0.05 & up
+qpid & p< 0.05 & up
+wicket & p< 0.05 & up
+xerces & p< 0.05 & up
+Total && 11:1
+
+
+smell name: InappropriateIntimacy
+argouml & ※ & -
+ant & p< 0.05 & up
+derby & ※ & -
+eclipse & ※ & -
+elasticsearch & p< 0.05 & down
+hadoop & p< 0.05 & down
+hsqldb & p< 0.05 & up
+incubating & p< 0.05 & up
+nutch & ※ & -
+qpid & p< 0.05 & down
+wicket & ※ & -
+xerces & p< 0.05 & up
+Total && 4:3
+
+
+smell name: LongParameterList
+argouml & ※ & -
+ant & p< 0.05 & up
+derby & ※ & -
+eclipse & ※ & -
+elasticsearch & ※ & -
+hadoop & p< 0.05 & up
+hsqldb & p< 0.05 & up
+incubating & p< 0.05 & down
+nutch & p< 0.05 & up
+qpid & p< 0.05 & up
+wicket & ※ & -
+xerces & p< 0.05 & down
+Total && 5:2

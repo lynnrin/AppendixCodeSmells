@@ -1,0 +1,380 @@
+GodClass
+Bayes
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+cassandra & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+derby & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+eclipse & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+elasticsearch & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+hadoop & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+hsqldb & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+incubating & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+wicket & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+xerces & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+Total & & 2:9 & & 0:11 & & 0:11 & & 0:9 & & 0:9 hhhlineh
+
+
+
+GodClass
+Logistic
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & 0.05< p & - & p< 0.05 & uphhhlineh
+cassandra & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & down & p< 0.05 & downhhhlineh
+derby & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+eclipse & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & ※ & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+hsqldb & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+incubating & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & 0.05< p & - & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+wicket & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+xerces & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+Total & & 3:5 & & 7:3 & & 8:2 & & 7:1 & & 8:1 hhhlineh
+
+
+
+ComplexClass
+Bayes
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+cassandra & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+derby & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+eclipse & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+hsqldb & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+incubating & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+wicket & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+xerces & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & uphhhlineh
+Total & & 3:6 & & 1:8 & & 1:8 & & 2:6 & & 3:5 hhhlineh
+
+
+
+ComplexClass
+Logistic
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+cassandra & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+derby & p< 0.05 & up & 0.05< p & - & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+eclipse & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & ※ & - & p< 0.05 & down & ※ & - & p< 0.05 & down & p< 0.05 & downhhhlineh
+hsqldb & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+incubating & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & down & p< 0.05 & downhhhlineh
+wicket & ※ & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+xerces & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+Total & & 4:3 & & 6:2 & & 6:2 & & 6:2 & & 6:2 hhhlineh
+
+
+
+ClassDataShouldBePrivate
+Bayes
+argouml & p< 0.05 & up & p< 0.05 & up2 & p< 0.05 & up2 & p< 0.05 & down & p< 0.05 & downhhhlineh
+ant & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+cassandra & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+derby & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+eclipse & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+elasticsearch & p< 0.05 & down & ※ & - & ※ & - & p< 0.05 & down & p< 0.05 & downhhhlineh
+hadoop & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & down & p< 0.05 & downhhhlineh
+hsqldb & ※ & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+incubating & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+nutch & ※ & - & ※ & - & ※ & - & p< 0.05 & up & p< 0.05 & uphhhlineh
+qpid & p< 0.05 & down & p< 0.05 & down2 & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+wicket & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+xerces & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+Total & & 2:8 & & 5:5 & & 6:4 & & 5:6 & & 5:6 hhhlineh
+
+
+
+ClassDataShouldBePrivate
+Logistic
+argouml & p< 0.05 & down & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+ant & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+cassandra & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+derby & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+eclipse & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+elasticsearch & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+hadoop & 0.05< p & - & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+hsqldb & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+incubating & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+nutch & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+qpid & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+wicket & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+xerces & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+Total & & 4:6 & & 7:4 & & 6:5 & & 7:4 & & 7:4 hhhlineh
+
+
+
+SpaghettiCode
+Bayes
+argouml & 0.05< p & - & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+ant & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+cassandra & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+derby & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & down & p< 0.05 & downhhhlineh
+eclipse & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+elasticsearch & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & down & p< 0.05 & uphhhlineh
+hadoop & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+hsqldb & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+incubating & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+wicket & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & downhhhlineh
+xerces & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & downhhhlineh
+Total & & 3:8 & & 4:8 & & 5:7 & & 5:7 & & 4:8 hhhlineh
+
+
+
+SpaghettiCode
+Logistic
+argouml & p< 0.05 & down & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+ant & p< 0.05 & up & p< 0.05 & up & p< 0.05 & down & p< 0.05 & up & p< 0.05 & downhhhlineh
+cassandra & ※ & - & p< 0.05 & up & p< 0.05 & up & ※ & - & ※ & -hhhlineh
+derby & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+eclipse & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+elasticsearch & ※ & - & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & ※ & -hhhlineh
+hadoop & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+hsqldb & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+incubating & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+wicket & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & downhhhlineh
+xerces & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+Total & & 6:4 & & 10:2 & & 8:4 & & 8:3 & & 6:4 hhhlineh
+
+
+
+LongMethod
+Bayes
+argouml & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+ant & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+cassandra & p< 0.05 & down & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+derby & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & down & p< 0.05 & downhhhlineh
+eclipse & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+elasticsearch & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+hadoop & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & 0.05< p & - & p< 0.05 & downhhhlineh
+hsqldb & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+incubating & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+nutch & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+qpid & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+wicket & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+xerces & p< 0.05 & down & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+Total & & 5:8 & & 4:8 & & 3:9 & & 5:6 & & 5:7 hhhlineh
+
+
+
+LongMethod
+Logistic
+argouml & p< 0.05 & up & p< 0.05 & up & 0.05< p & - & p< 0.05 & down & p< 0.05 & downhhhlineh
+ant & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+cassandra & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+derby & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+eclipse & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+elasticsearch & ※ & - & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+hadoop & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & down & p< 0.05 & downhhhlineh
+hsqldb & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & down & p< 0.05 & downhhhlineh
+incubating & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+nutch & p< 0.05 & up & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+qpid & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+wicket & ※ & - & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+xerces & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+Total & & 3:8 & & 12:1 & & 12:0 & & 10:3 & & 10:3 hhhlineh
+
+
+
+FeatureEnvy
+Bayes
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & p< 0.05 & up & p< 0.05 & up & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+cassandra & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+derby & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+eclipse & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hsqldb & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+incubating & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+wicket & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+xerces & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+Total & & 2:1 & & 1:2 & & 0:3 & & 1:2 & & 1:2 hhhlineh
+
+
+
+FeatureEnvy
+Logistic
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & ※ & - & ※ & - & ※ & - & - & - & ※ & -hhhlineh
+cassandra & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+derby & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+eclipse & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hsqldb & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+incubating & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+wicket & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+xerces & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & downhhhlineh
+Total & & 1:1 & & 2:0 & & 2:0 & & 2:0 & & 1:1 hhhlineh
+
+
+
+InappropriateIntimacy
+Bayes
+argouml & p< 0.05 & up & 0.05< p & - & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+ant & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+cassandra & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+derby & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+eclipse & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+elasticsearch & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+hadoop & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+hsqldb & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+incubating & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & downhhhlineh
+nutch & 0.05< p & - & 0.05< p & - & 0.05< p & - & p< 0.05 & down & p< 0.05 & downhhhlineh
+qpid & 0.05< p & - & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+wicket & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+xerces & 0.05< p & - & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+Total & & 2:7 & & 2:8 & & 2:9 & & 4:5 & & 4:5 hhhlineh
+
+
+
+InappropriateIntimacy
+Logistic
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & ※ & - & ※ & - & ※ & - & - & - & - & -hhhlineh
+cassandra & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+derby & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+eclipse & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & - & - & - & -hhhlineh
+hadoop & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+hsqldb & ※ & - & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+incubating & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+nutch & ※ & - & ※ & - & ※ & - & - & - & ※ & -hhhlineh
+qpid & ※ & - & ※ & - & ※ & - & - & - & - & -hhhlineh
+wicket & p< 0.05 & up & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+xerces & ※ & - & p< 0.05 & up & p< 0.05 & down & - & - & ※ & -hhhlineh
+Total & & 3:0 & & 4:1 & & 3:2 & & 3:0 & & 3:0 hhhlineh
+
+
+
+MiddleMan
+Bayes
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+cassandra & - & - & p< 0.05 & up & p< 0.05 & up & ※ & - & ※ & -hhhlineh
+derby & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & ※ & - & ※ & -hhhlineh
+eclipse & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hsqldb & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+incubating & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+nutch & 0.05< p & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+qpid & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+wicket & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+xerces & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+Total & & 0:1 & & 1:2 & & 2:1 & & 0:0 & & 0:0 hhhlineh
+
+
+
+MiddleMan
+Logistic
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+cassandra & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+derby & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+eclipse & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hsqldb & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+incubating & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+wicket & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+xerces & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+Total & & 0:0 & & 0:0 & & 0:0 & & 0:0 & & 0:0 hhhlineh
+
+
+
+SpeculativeGenerality
+Bayes
+argouml & - & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+ant & - & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+cassandra & ※ & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+derby & - & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+eclipse & - & - & p< 0.05 & up & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+elasticsearch & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & ※ & - & ※ & -hhhlineh
+hadoop & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hsqldb & - & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+incubating & - & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & - & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+wicket & - & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+xerces & ※ & - & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+Total & & 0:1 & & 2:9 & & 1:10 & & 0:0 & & 0:0 hhhlineh
+
+
+
+SpeculativeGenerality
+Logistic
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+cassandra & ※ & - & p< 0.05 & down & ※ & - & ※ & - & ※ & -hhhlineh
+derby & ※ & - & ※ & - & ※ & - & - & - & ※ & -hhhlineh
+eclipse & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hsqldb & ※ & - & ※ & - & ※ & - & - & - & ※ & -hhhlineh
+incubating & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+nutch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+qpid & ※ & - & p< 0.05 & down & ※ & - & ※ & - & ※ & -hhhlineh
+wicket & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+xerces & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+Total & & 0:0 & & 0:2 & & 0:0 & & 0:0 & & 0:0 hhhlineh
+
+
+
+LongParameterList
+Bayes
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & p< 0.05 & down & ※ & - & ※ & - & p< 0.05 & down & p< 0.05 & downhhhlineh
+cassandra & p< 0.05 & down & ※ & - & ※ & - & p< 0.05 & down & p< 0.05 & downhhhlineh
+derby & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+eclipse & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & p< 0.05 & down & p< 0.05 & down & ※ & - & p< 0.05 & down & p< 0.05 & downhhhlineh
+hsqldb & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & ※ & - & ※ & -hhhlineh
+incubating & p< 0.05 & down & ※ & - & ※ & - & p< 0.05 & down & p< 0.05 & downhhhlineh
+nutch & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & uphhhlineh
+qpid & p< 0.05 & down & ※ & - & ※ & - & p< 0.05 & down & p< 0.05 & downhhhlineh
+wicket & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+xerces & p< 0.05 & down & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & p< 0.05 & downhhhlineh
+Total & & 0:8 & & 0:4 & & 0:3 & & 2:5 & & 1:6 hhhlineh
+
+
+
+LongParameterList
+Logistic
+argouml & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+ant & p< 0.05 & down & p< 0.05 & down & p< 0.05 & up & ※ & - & ※ & -hhhlineh
+cassandra & p< 0.05 & down & p< 0.05 & up & ※ & - & p< 0.05 & up & p< 0.05 & uphhhlineh
+derby & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+eclipse & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+elasticsearch & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+hadoop & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+hsqldb & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+incubating & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+nutch & p< 0.05 & down & p< 0.05 & up & ※ & - & p< 0.05 & up & p< 0.05 & uphhhlineh
+qpid & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & down & p< 0.05 & downhhhlineh
+wicket & ※ & - & ※ & - & ※ & - & ※ & - & ※ & -hhhlineh
+xerces & p< 0.05 & down & p< 0.05 & up & p< 0.05 & up & p< 0.05 & up & p< 0.05 & uphhhlineh
+Total & & 0:8 & & 7:1 & & 6:0 & & 6:1 & & 6:1 hhhlineh
+
+
+

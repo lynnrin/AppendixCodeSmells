@@ -1,0 +1,39 @@
+smell name: GodClass
+Bayes: 4, Log: 5
+smell name: ComplexClass
+Bayes: 7, Log: 2
+smell name: ClassDataShouldBePrivate
+Bayes: 8, Log: 1
+smell name: SpaghettiCode
+Bayes: 9, Log: 2
+smell name: LongMethod
+Bayes: 8, Log: 4
+smell name: InappropriateIntimacy
+Bayes: 2, Log: 2
+smell name: LongParameterList
+Bayes: 4, Log: 3
+
+project name: argouml/VERSION_0_34
+Bayes: 3, Log: 0
+project name: ant/rel/1.8.3
+Bayes: 3, Log: 3
+project name: derby/10.9.1.0
+Bayes: 3, Log: 2
+project name: eclipse/R3_4_2
+Bayes: 3, Log: 2
+project name: elasticsearch/v0.19.0
+Bayes: 2, Log: 1
+project name: hadoop/release-0.9.0
+Bayes: 3, Log: 3
+project name: hsqldb/2.2.8
+Bayes: 4, Log: 2
+project name: incubating/release-0.6
+Bayes: 6, Log: 1
+project name: nutch/release-1.4
+Bayes: 3, Log: 0
+project name: qpid/0.18
+Bayes: 4, Log: 2
+project name: wicket/release/wicket-1.4.20
+Bayes: 3, Log: 2
+project name: xerces/Xerces-J_1_4_2
+Bayes: 5, Log: 1
